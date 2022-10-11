@@ -1,0 +1,126 @@
+*{
+border: 0; 
+padding: 0; 
+}
+body {
+  background-color: rgb(13, 26, 45); 
+  font-family: Outfit;
+
+
+}
+
+h1 {
+   
+  color: white;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 15px;
+  text-align: center;
+  margin: 0,center;
+  margin-bottom: 30px;
+
+}
+
+li {
+  list-style-type: none;
+  padding: 0%;
+}
+
+.container{
+
+margin: 0, center;
+
+}
+.card1 {
+  background-color: rgb(13, 26, 45);;
+  height: 480px;
+  width: 300px;
+  border-width: 50px;
+  margin: 0 auto;
+  box-shadow: 0px 0px 15px black inset;
+  border-radius: 15px;
+}
+
+.logonft{
+  width: 250px;
+  height: 220px; 
+  padding-left: 25px;
+  padding-top: 25px;
+  border-radius: 5%;
+ ;
+
+}
+.texto{
+font-family: Outfit;
+font-size: 18px;
+color: white;
+text-align: left;
+padding-left: 25px;
+
+}
+
+.subtexto{
+  font-size: 12px;
+  text-align: left;
+  padding-left: 25px;
+  font-family: Outfit;
+  color: rgb(139, 160, 193);
+ 
+}
+
+.logoethereum{
+  padding-left:25px ; 
+}
+
+.textoeth, .logoethereum{
+  font-size:12px;
+  color:hsl(178, 100%, 50%);
+  font-size: 11px;
+  display: inline;
+ 
+}
+
+
+
+.textclock, .clock{
+  font-size:12px;
+  color:gray;
+  font-size: 11px;
+  display:inline;
+  }
+
+  .clock{
+  padding-left: 30px ;
+   
+ 
+  }
+
+  .containermidle, .containermidle2{
+    display:inline-block;
+  } 
+  .creator{
+  padding-top: 5cm;
+  }
+  .imgavatar, .rodape{
+    display:inline;
+  }
+  
+.imgavatar{
+  width: 22px;
+}
+
+.rodape{
+color:white;
+font-size: 11px;
+}
+
+footer{
+  text-align: center;
+  padding-top: 80px;
+  }
+  
+
+
+
+
+
+
